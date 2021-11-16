@@ -1,0 +1,18 @@
+1.	Product List Web Application Using React Hooks
+
+Create a Product List application using React Hooks. Follow the below steps to build the application:
+a.	Perform the state management using React Hooks (make use of useState() method)
+b.	First page of the application should contain the list of products
+c.	Make use of only functional components along with React Hooks syntax
+d.	Make the API call using ‘useEffect()’ method and Axios
+
+2.	Course List Application:
+
+Build a course list application with basic React concepts and Rest API. Follow the below mentioned steps to build the application
+a)	Make use of JSON server to create a static API (containing courses JSON data)
+b)	Under each course there must be enquire button
+c)	On clicking enquire button, a form should be displayed. Here user should be able to type their details (with proper validations)
+d)	On clicking the submit button the user information should be added to json file
+e)	Create one more route to display the user enquires
+
+**** Note: Use React Bootstrap in both the assignment

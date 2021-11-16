@@ -1,0 +1,150 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product Name",
+      "description": "Product Description",
+      "price": 1000,
+      "quantity": 10,
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 2,
+      "name": "Product Name",
+      "description": "Product Description",
+      "price": 1000,
+      "quantity": 10,
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 3,
+      "name": "Product Name",
+      "description": "Product Description",
+      "price": 1000,
+      "quantity": 10,
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 4,
+      "name": "Product Name",
+      "description": "Product Description",
+      "price": 1000,
+      "quantity": 10,
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 5,
+      "name": "Product Name",
+      "description": "Product Description",
+      "price": 1000,
+      "quantity": 10,
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 6,
+      "name": "Product Name",
+      "description": "Product Description",
+      "price": 1000,
+      "quantity": 10,
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 7,
+      "name": "Product Name",
+      "description": "Product Description",
+      "price": 1000,
+      "quantity": 10,
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 8,
+      "name": "Product Name",
+      "description": "Product Description",
+      "price": 1000,
+      "quantity": 10,
+      "image": "https://source.unsplash.com/random"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "The Web Developer Bootcamp 2021",
+      "description": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+      "author": "Colt Steele",
+      "rating": 4.7,
+      "price": 455,
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 2,
+      "name": "The Web Developer Bootcamp 2021",
+      "description": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+      "author": "Colt Steele",
+      "rating": 4.7,
+      "price": 455,
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 3,
+      "name": "The Web Developer Bootcamp",
+      "description": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+      "author": "Colt Steele",
+      "rating": 4.7,
+      "price": 455,
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 4,
+      "name": "The Web Developer Bootcamp 2021",
+      "description": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+      "author": "Colt Steele",
+      "rating": 4.7,
+      "price": 455,
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 5,
+      "name": "The Web Developer Bootcamp 2021",
+      "description": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+      "author": "Colt Steele",
+      "rating": 4.7,
+      "price": 455,
+      "image": "https://source.unsplash.com/random"
+    },
+    {
+      "id": 6,
+      "name": "The Web Developer Bootcamp 2021",
+      "description": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+      "author": "Colt Steele",
+      "rating": 4.7,
+      "price": 455,
+      "image": "https://source.unsplash.com/random"
+    }
+  ],
+  "inquiry": [
+    {
+      "name": "Mihir Adelkar",
+      "email": "mihir.adelkar@gmail.com",
+      "mobile": "9769017984",
+      "course": "The Web Developer Bootcamp",
+      "query": "what is the price of this course?",
+      "id": 1
+    },
+    {
+      "name": "Mihir Adelkar",
+      "email": "mihir.adelkar@gmail.com",
+      "mobile": "9769017984",
+      "course": "The Web Developer Bootcamp",
+      "query": "what is the price of this course?",
+      "id": 2
+    },
+    {
+      "name": "Mihir Adelkar",
+      "email": "mihir.adelkar@gmail.com",
+      "mobile": "9769017984",
+      "course": "The Web Developer Bootcamp",
+      "query": "your query 1",
+      "id": 3
+    }
+  ]
+}
